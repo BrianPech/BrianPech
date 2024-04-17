@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Brian and I'm a programing student, from mexico</p>
+<p align="left">My name is Brian, and I'm a programming student from Mexico.</p>
 
 ###
 
@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning frontend development, backend development<br>🎯 Goals: <br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2023 🐛<br>
+📚 I'm currently learning frontend development, backend development, and exploring UX/UI design 🖥️<br>
+🎯 Goals: Master full-stack development, contribute to open-source projects, and build innovative web applications 🚀<br>
+🎲 Fun fact: Made a Java ball animation for school, but hitting pause caused an unexpected error I'd never seen. Taught me a lot about debugging! 😄</p>
 
 ###
 
