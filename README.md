@@ -13,8 +13,6 @@
 <p align="left">✨ Creating bugs since 2023 🐛<br>
 📚 I'm currently learning frontend development, backend development, and exploring UX/UI design 🖥️<br>
 🎯 Goals: Master full-stack development, contribute to open-source projects, and build innovative web applications 🚀<br>
-🎲 Fun fact: Made a Java ball animation for school, but hitting pause caused an unexpected error I'd never seen. Taught me a lot about debugging! 😄</p>
-
 ###
 
 <h2 align="left">I code with</h2>
