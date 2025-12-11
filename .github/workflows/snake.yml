@@ -8,7 +8,7 @@ on:
   # Permite ejecutarlo manualmente desde la pestaña Actions
   workflow_dispatch:
   
-  # Se ejecuta al hacer push a la rama main
+  # Se ejecuta al hacer push a la rama mainhttps://docs.github.com/actions/reference/workflow-syntax-for-github-actions#onschedule
   push:
     branches:
     - main
