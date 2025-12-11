@@ -40,11 +40,13 @@ I'm **@BrianPech**, a web developer passionate about building modern and scalabl
 ---
 
 ### 🐍 My Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrianPech/BrianPech/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrianPech/BrianPech/output/github-contribution-grid-snake.svg">
-  <img alt="github contributions snake animation" src="https://raw.githubusercontent.com/BrianPech/BrianPech/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrianPech/BrianPech/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrianPech/BrianPech/output/github-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/BrianPech/BrianPech/output/github-snake.svg">
+  </picture>
+</p>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=BrianPech&style=flat-square&color=blue" alt="visitor counter" />
