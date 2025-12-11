@@ -34,5 +34,9 @@ Soy **@BrianPech**, un desarrollador web apasionado por construir productos mode
 
 ---
 
-### 🐍 Mis Contribuciones (Snake Game)
-![Snake animation](https://github.com/BrianPech/BrianPech/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Mis Contribuciones
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrianPech/BrianPech/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrianPech/BrianPech/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/BrianPech/BrianPech/output/github-contribution-grid-snake.svg">
+</picture>
