@@ -8,7 +8,7 @@ on:
   # Permite ejecutarlo manualmente desde la pestaña Actions
   workflow_dispatch:
   
-  # Se ejecuta al hacer push a la rama mainhttps://docs.github.com/actions/reference/workflow-syntax-for-github-actions#onschedule
+  # Se ejecuta al hacer push a la rama main
   push:
     branches:
     - main
@@ -24,16 +24,16 @@ jobs:
       - name: Generar la serpiente de contribuciones
         uses: Platane/snk@v3
         with:
-          # Usa automáticamente el usuario dueño del repo (o pon tu usuario 'BrianPech' entre comillas)
+          # Nombre de usuario (automático)
           github_user_name: ${{ github.repository_owner }}
           
-          # Aquí definimos los archivos de salida (el gif y el svg)
+          # Archivos a generar
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
 
       # 3. Publicar el archivo generado en una rama separada
-      # Esto crea una rama "output" donde se guardarán las imágenes para que las uses en tu README
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
